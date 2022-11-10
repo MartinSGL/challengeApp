@@ -3,7 +3,7 @@
 This app was a challenge from my TL. The creation of this app worked to improve and practice
 how to use react native components, and to access native phone features (store, gallery, fingerprint sensor, etc). 
 
-Background degradation was added, and an image plugin allow to detection of image colors in order to set a background with relative colors to the image.
+Background degradation was added, and an image plugin allows the detection of image colors in order to set a background with relative colors to the image.
 
 Features:
 - Draggable list
